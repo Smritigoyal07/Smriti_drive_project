@@ -1,4 +1,4 @@
-# Smriti_drive_project
+# Smriti Drive Project
 
 In this project we can get all the details of particular folder that is selected or uploaded from the UI.
 
